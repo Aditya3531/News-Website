@@ -1,7 +1,7 @@
-const API_KEY = "7010f95dec1e4e389f1f0450feda2ff5";
-const url = "https://newsapi.org/v2/everything?q=tesla&from=2024-03-16&sortBy=publishedAt&apiKey=7010f95dec1e4e389f1f0450feda2ff5";
+const API_KEY = 7010f95dec1e4e389f1f0450feda2ff5;
+const url = https://newsapi.org/v2/everything?q=;
 
-window.addEventListener('load', () => fetchNews(""));
+window.addEventListener('load', () => fetchNews("India"));
 
 function reload() {
     window.location.reload();
